@@ -1,0 +1,1 @@
+Analyzed Capital Bikeshare data using shapefiles to consolidate the dataset. Conducted EDA to uncover trends and patterns, then used ML models to predict daily rider counts based on collected data. A deep dive into urban mobility
